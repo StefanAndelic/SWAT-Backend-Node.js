@@ -1,4 +1,4 @@
-#SWAT Backend Node.js
+# SWAT-Backend Node.js
 
 This repository contains source code for a Node.js  web API used in SWAT frontend mobile app.
 
