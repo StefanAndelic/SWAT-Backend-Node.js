@@ -1,3 +1,5 @@
+#SWAT Backend Node.js
+
 This repository contains source code for a Node.js  web API used in SWAT frontend mobile app.
 
 To run this project, install the latest version of MongoDB Community Edition and MongoDB Compass. Once MongoDB is installed make sure it's running by going to Terminal and typing mongod. 
