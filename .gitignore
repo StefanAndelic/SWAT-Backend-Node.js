@@ -1,0 +1,4 @@
+node_modules/
+.DStore
+logfile.log
+uncaughtExceptions.log

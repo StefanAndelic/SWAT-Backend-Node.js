@@ -1,0 +1,11 @@
+{
+
+    "jwtPrivateKey": "jwtPrivateKey",
+    "db": "SWAT_API",
+    "testing_db":"SWAT_API_test",
+    "port": "3000",
+    "token_expiration":"1h",
+    "assetsBaseUrl":"http://192.168.1.9:3000/"
+
+
+}

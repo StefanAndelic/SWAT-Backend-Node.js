@@ -1,0 +1,7 @@
+{
+    "jwtPrivateKey": "swatjwtsecureKey",
+    "db_connection": "",
+    "assetsBaseUrl":"http://192.168.1.9:3000/", 
+    "token_expiration":"7d"
+    
+}
